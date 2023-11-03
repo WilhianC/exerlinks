@@ -1,0 +1,24 @@
+/* styles.css */
+
+header {
+    background-image: url("arquivos/cabec.jpg");
+    background-size: cover; 
+    height: 200px; /* Altura do cabeçalho, ajuste conforme necessário */
+    color: white; 
+    text-align: center; /* Alinhamento do texto no centro do cabeçalho */
+    padding-top: 100px; /* Espaçamento superior para centralizar o texto verticalmente */
+}
+
+body {
+    background-image: url('arquivos/fundo.avif');
+    background-size: cover;
+}
+
+/* styles.css */
+
+.destaque-turquoise {
+    display: inline-block;
+    background-color: turquoise;
+    padding: 5px; /* Adicione o espaçamento que desejar para o destaque */
+}
+
